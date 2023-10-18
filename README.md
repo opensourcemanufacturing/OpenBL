@@ -30,7 +30,7 @@ The Machine Controller (MC) is the main microcontroller in the P1. It has a Spin
 
 *(this table is from the Bambu Lab Wiki and is presumed to be correct)*
 
-###Toolhead Controller
+### Toolhead Controller
 
 The Toolhead (TH) controller is, unsurprisingly, located on the toolhead of the printer. It is connected to the MC board via a 6-pin JST style connector. It contains a Spintrol [SPC1168APE48](docs/Spintrol_SPC1168_Datasheet_Rev13.pdf) MCU and an [AT8236](docs/AT8236_Datasheet.pdf) motor controller for the extruder. The toolhead connects to an interface board for the hotend heater, thermistor, hotend fan and part cooling via a flexible printed circuit (FPC) cable.
 
@@ -67,15 +67,15 @@ The Application Processor (AP) board is located behind the user interface on the
 | 4 | Not Connected |    |                           | 
 
 
-###Notes:
+### Notes:
 You may have noticed that the X1 and A1 series of printers are missing. These will be added eventually. The information above is also likely to grow with time as we learn more about these printers. This is just the beginning. Much work remains to be done!
 
-###Datasheets:
-[AT8236 (Chinese)](docs/AT8236_Datasheet.pdf) - *if anyone has an English version, please share it*
-[SPC1168 (English)](docs/Spintrol_SPC1168_Datasheet_Rev13.pdf)
-[SPC2168 (English)](docs/Spintrol_SPC2168_Datasheet_Rev11.pdf)
+### Datasheets:
+- [AT8236 (Chinese)](docs/AT8236_Datasheet.pdf) - *if anyone has an English version, please share it*
+- [SPC1168 (English)](docs/Spintrol_SPC1168_Datasheet_Rev13.pdf)
+- [SPC2168 (English)](docs/Spintrol_SPC2168_Datasheet_Rev11.pdf)
 
 
 
-###Sources:
-[Bambu Lab Wiki](https://wiki.bambulab.com/)
+### Sources:
+- [Bambu Lab Wiki](https://wiki.bambulab.com/)
