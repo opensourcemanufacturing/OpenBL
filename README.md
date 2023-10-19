@@ -53,7 +53,7 @@ The Toolhead (TH) controller is, unsurprisingly, located on the toolhead of the 
 *Toolhead Cable - 6 conductor (two red, two black, one green and one white). 
 Speculation: red and black wires could be 24V, green and white could be CAN high and CAN low (someone needs to test)*
 
-###Application Processor
+### Application Processor
 
 The Application Processor (AP) board is located behind the user interface on the front of the printer. The AP board connects to the MC board via a 12 conductor cable.
 
