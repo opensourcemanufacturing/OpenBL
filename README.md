@@ -84,3 +84,4 @@ You may have noticed that the X1 and A1 series of printers are missing. These wi
 
 ### Sources:
 - [Bambu Lab Wiki](https://wiki.bambulab.com/)
+-[Dr Terrible's House of Bloggable: X1 Carbon Notes](https://charliex2.wordpress.com/2023/01/07/bambu-x1-carbon-notes/)
