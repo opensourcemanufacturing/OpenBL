@@ -37,6 +37,7 @@ The Toolhead (TH) controller is, unsurprisingly, located on the toolhead of the 
 
 
 ![Toolhead PCB (front)](images/P1_ToolheadPCB_01.png)
+
 *Front side of TH board. 
 - FPC connector for TH interface board is top left. 
 - Motor connector is the larger white connector. 
@@ -44,9 +45,11 @@ The Toolhead (TH) controller is, unsurprisingly, located on the toolhead of the 
 
 
 ![Toolhead PCB (back)](images/P1_ToolheadPCB_02.jpg)
+
 *Back side of TH board. TH board to MC board connector highlighted in red*
 
 ![Toolhead Cable)](images/P1_ToolheadCable_01.jpg)
+
 *Toolhead Cable - 6 conductor (two red, two black, one green and one white). 
 Speculation: red and black wires could be 24V, green and white could be CAN high and CAN low (someone needs to test)*
 
@@ -55,9 +58,11 @@ Speculation: red and black wires could be 24V, green and white could be CAN high
 The Application Processor (AP) board is located behind the user interface on the front of the printer. The AP board connects to the MC board via a 12 conductor cable.
 
 ![AP Board (back)](images/P1_APboard_back_01.jpg)
+
 *Back side of AP Board. Left is the MC to AP connector, Right is the screen/user interface cable*
 
 ![AP Board (front)](images/P1_APboard_front_01.jpg)
+
 *Front side of the AP Board*
 |No.| Connector     | No.| Connector                 |
 |---| --------------|--- | ------------------------- |
