@@ -7,7 +7,7 @@ The name OpenBL is inspired by another project called OpenFL. OpenFL is Open For
 
 ## Motion Control
 
-The motion control system of Bambu Lab's X1 and P1 series of printers consists of an Application Processor and multiple Machine Controllers. This arrangement is similar to how [Klipper](https://github.com/Klipper3d/klipper) works.
+The motion control system of Bambu Lab's X1 and P1 series of printers consists of an Application Processor, Machine Controller board and a Toolhead board.
 
 ## P1 Series
 *Note: The P1 and X1 Series printers are similar, but do have different control boards*
