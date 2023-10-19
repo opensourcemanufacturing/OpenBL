@@ -75,7 +75,7 @@ The Application Processor (AP) board is located behind the user interface on the
 
 The P1 Series printers are accessible via FTP.
 - FTP Port: 990
-- Username: BBLP
+- Username: bblp
 - Password: can be found under "access_code" in BambuStudio.conf (look for "XXXXXXXXXXXXXXX": "password")
 
 ### Notes:
