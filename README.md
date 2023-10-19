@@ -71,8 +71,15 @@ The Application Processor (AP) board is located behind the user interface on the
 | 3 | Antenna       | 7  | SD Card                   |
 | 4 | Not Connected |    |                           | 
 
+### FTP Access
+
+The P1 Series printers are accessible via FTP.
+- FTP Port: 990
+- Username: BBLP
+- Password: can be found under "access_code" in BambuStudio.conf (look for "XXXXXXXXXXXXXXX": "password")
 
 ### Notes:
+
 You may have noticed that the X1 and A1 series of printers are missing. These will be added eventually. The information above is also likely to grow with time as we learn more about these printers. This is just the beginning. Much work remains to be done!
 
 ### Datasheets:
@@ -84,4 +91,5 @@ You may have noticed that the X1 and A1 series of printers are missing. These wi
 
 ### Sources:
 - [Bambu Lab Wiki](https://wiki.bambulab.com/)
--[Dr Terrible's House of Bloggable: X1 Carbon Notes](https://charliex2.wordpress.com/2023/01/07/bambu-x1-carbon-notes/)
+- [Dr Terrible's House of Bloggable: X1 Carbon Notes](https://charliex2.wordpress.com/2023/01/07/bambu-x1-carbon-notes/)
+- [Bambu Lab Community Forum - "We Can Now Connect to FTP on The P1P](https://forum.bambulab.com/t/we-can-now-connect-to-ftp-on-the-p1p/6464)
